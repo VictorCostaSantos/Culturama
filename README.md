@@ -1,4 +1,4 @@
-<h1 align="center">:books: AluraBook</h1>
+<h1 align="center">:performing_arts: :art: AluraBook</h1>
 
 <div>
   <p align="center">
@@ -18,7 +18,7 @@ Nesse projeto desenvolvomemos toda organização das imagens através do **displ
   <h4 align="center" style = "color: #57b9ff;"> <b>Clique sobre a imagem para ir para o site </b>:eyes:  
   </h4>
 
-  <a  target="_blank" href = "https://alura-book-khaki.vercel.app/"><img  alt="Robotron" src="https://i.imgur.com/B3qIh4W.gif"></a>
+  <a  target="_blank" href = "https://culturama-phi-two.vercel.app/"><img  alt="Robotron" src="https://i.imgur.com/WPwtf12.gif"></a>
 
 </hr>
   
